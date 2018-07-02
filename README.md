@@ -1,3 +1,8 @@
+Dies ist meine Config für einen CL-260 mit AZSMZ Mini Board.
+
+Original Readme.md:
+
+
 # Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
