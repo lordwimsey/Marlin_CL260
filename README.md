@@ -1,5 +1,5 @@
 Dies ist meine Config für einen CL-260 mit AZSMZ Mini Board.
-
+Mit Github bin ich nicht so fit, ich benutze das hier zum üben.
 Original Readme.md:
 
 
