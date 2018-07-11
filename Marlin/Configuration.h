@@ -599,7 +599,7 @@
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 4000, 500 } //- Peter: war einkommentiert
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 2133, 456.1 }//- Peter: Zeile neu
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 80, 2133, 456.1 }//- Peter: Zeile neu // 11.7.2018 X bekommt DRV8825
 
 /**
  * Default Max Feed Rate (mm/s)
